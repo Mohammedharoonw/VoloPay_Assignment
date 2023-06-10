@@ -1,6 +1,12 @@
 # VoloPay_Assignment
 This assignment done for VoloPay commpany.
 
+![step1](https://github.com/Mohammedharoonw/React/assets/65896270/6be035df-a8a0-4b80-b6a5-d65327de193e)
+
+![step2](https://github.com/Mohammedharoonw/React/assets/65896270/f8f98292-f904-4b28-976b-4c670555b47b)
+
+![sampleGif](https://github.com/Mohammedharoonw/React/assets/65896270/00d98fcf-f684-4bc4-a0b2-4036bf023b69)
+
 Instruction to run Appliction in your machine.
 1)Just copy paste the Below link to your Browser
 https://volopayassignment.netlify.app/
